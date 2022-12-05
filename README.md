@@ -8,10 +8,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
----
-
 ### :man_technologist: About Me :
-
 - :man_student: Graduated in **Economics** and **Master in Financial Markets and Wealth Management**
 - :briefcase: Working as a **Subject Matter Expert - FX Trade Support** at **Ebury Fintech**
 - 🌱 Currently learning **C**, **Git**, **Linux** & **Shell** at [42 Málaga](https://www.42network.org/campuses/42-malaga/)
@@ -33,6 +30,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" **alt="Vscode" width="40" height="40"/>
 </div>
 
+ ---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=antoniolopez7217&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniolopez7217&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
 <!---
 antoniolopez7217/antoniolopez7217 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
