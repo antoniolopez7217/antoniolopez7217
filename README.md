@@ -30,10 +30,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" **alt="Vscode" width="40" height="40"/>
  </div>
  
- ### :fire: My Stats :
+ 
+<!---
+### :fire: My Stats :
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniolopez7217&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!---
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
 ### :fire: My Stats :
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniolopez7217&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
