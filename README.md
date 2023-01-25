@@ -11,7 +11,7 @@
 ### :man_technologist: About Me :
 - :man_student: Graduated in **Economics** and **Master in Financial Markets and Wealth Management**
 - :briefcase: Working as a **Subject Matter Expert - FX Trade Support** at [Ebury Fintech](https://ebury.com/)
-- 🌱 Currently learning **C**, **Git** & **Shell** at [42 Málaga](https://www.42network.org/) and **Web development** in [FullStackOpen](https://fullstackopen.com/)
+- 🌱 Currently learning **C**, **Git** & **Shell** at [42 Málaga](https://www.42network.org/) and **Web development** (JavaScript, React...) in [FullStackOpen](https://fullstackopen.com/)
 - 👀 Interested in focusing my career in the field of **software development**
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antoniolopezchamorro)
 
