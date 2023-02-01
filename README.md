@@ -36,7 +36,7 @@
  
  ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniolopez7217&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniolopez7217&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  
 <!---
 ### :fire: My Stats :
