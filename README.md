@@ -13,7 +13,7 @@
 - :computer: [Google Data Analytics Certificate](https://www.credly.com/badges/9b2df7ff-0040-405b-9a65-05eaed3c0fbe/public_url)
 - :briefcase: Working as a **Subject Matter Expert - FX Trade Support** at [Ebury Fintech](https://ebury.com/)
 - 🌱 Currently learning **C**, **Git** & **Shell** at [42 Málaga](https://www.42network.org/) and **Web development** (JavaScript, React, HTML...) in [FullStackOpen](https://fullstackopen.com/)
-- 👀 Interested in focusing my career in the field of **software development**
+- 👀 Interested in focusing my career in the field of **software development** and **data**
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antoniolopezchamorro)
 
  ---
